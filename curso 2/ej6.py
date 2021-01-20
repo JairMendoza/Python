@@ -1,0 +1,7 @@
+print("Vamos a sacar la media de 3 numeros.")
+num1=int(input("Numero 1: "))
+num2=int(input("Numero 2: "))
+num3=int(input("Numero 3: "))
+media=(num1+num2+num3)/(3)
+print(f"La media de los tres numero ingresados es: {media}")
+input()
